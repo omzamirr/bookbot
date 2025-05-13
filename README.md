@@ -1,4 +1,4 @@
-# bookbot
+# Bookbot
 
 This project counts the number of words in a text file and the number of time each character showed up in said file. 
 
